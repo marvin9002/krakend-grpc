@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	pb "github.com/kpacha/krakend-grpc/example/pb"
+	pb "github.com/marvin9002/krakend-grpc/example/pb"
 )
 
 const serviceFullName = "helloworld.Greeter.SayHello"
