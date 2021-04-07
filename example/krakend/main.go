@@ -12,8 +12,8 @@ import (
 	"github.com/devopsfaith/krakend/logging"
 	"github.com/devopsfaith/krakend/proxy"
 	"github.com/devopsfaith/krakend/router/gin"
-	grpc "github.com/kpacha/krakend-grpc"
-	"github.com/kpacha/krakend-grpc/plugin"
+	grpc "github.com/devopsfaith/krakend-grpc"
+	"github.com/devopsfaith/krakend-grpc/plugin"
 )
 
 func main() {
